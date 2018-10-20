@@ -1,2 +1,3 @@
 Esto es para añadir un doc desde el finder
 además lo he modificado después
+Y encima después de un merge añado esto en una rama previa
